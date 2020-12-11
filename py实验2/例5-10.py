@@ -1,0 +1,45 @@
+class Person(object):
+    def __init__(self,name='',age=20,sex='man'):
+        self.setName()
+
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
